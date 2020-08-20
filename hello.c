@@ -6,12 +6,14 @@
  *
  */
  #include <stdlib.h>
- #include <stdlib.h>
+ #include <stdio.h>
 
  int main(int argc, char **argv) {
 
      printf("hello World!\n");
-
+     
+     printf("Collin Moffatt");
+     printf("Computer Science");
      return 0;
  }
 
